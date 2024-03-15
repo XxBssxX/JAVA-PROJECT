@@ -27,6 +27,6 @@ public class EXERCICE3 {
     System.out.println("la valeuur de a est :"+a);
     System.out.println("la valeuur de b est :"+b);
 }
-// TODO code application logic here
-    }// TODO code application logic here
+}
+
     

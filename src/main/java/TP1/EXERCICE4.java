@@ -22,5 +22,5 @@ public class EXERCICE4 {
         System.out.println("la Puissance est :"+f);
 
 	    }
-	    }// TODO code application logic here
+	    }
     

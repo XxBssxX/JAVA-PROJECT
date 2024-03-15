@@ -25,5 +25,5 @@ public class EXERCICE2 {
         int resultat = (int) Math.pow(x, n);
         System.out.println(x + "^" + n + " = " + resultat);
     }
-}// TODO code application logic here
+}
     

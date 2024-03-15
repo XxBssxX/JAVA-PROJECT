@@ -24,5 +24,5 @@ public class EXERCICE5 {
 	        }
 	        System.out.println("le facterielle = "+fact);
 	    }
-}// TODO code application logic here
+}
     

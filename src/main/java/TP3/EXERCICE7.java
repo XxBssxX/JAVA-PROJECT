@@ -49,5 +49,5 @@ public class EXERCICE7 {
 
         scanner.close();
     }
-}// TODO code application logic here
+}
    

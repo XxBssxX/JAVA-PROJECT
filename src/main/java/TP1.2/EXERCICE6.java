@@ -55,5 +55,5 @@ public class EXERCICE6 {
             return "Sexe non valide";
         }
     }
-}// TODO code application logic here
+}
     

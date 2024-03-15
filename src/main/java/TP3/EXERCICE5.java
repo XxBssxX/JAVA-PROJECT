@@ -51,5 +51,5 @@ public class EXERCICE5 {
 
         scanner.close();
     }
-}// TODO code application logic here
+}
     

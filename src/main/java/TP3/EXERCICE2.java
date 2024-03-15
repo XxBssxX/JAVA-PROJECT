@@ -26,5 +26,5 @@ public class EXERCICE2 {
             System.out.println("Élément " + (i + 1) + " : " + tableau[i]);
         }
     }
-}// TODO code application logic here
+}
     

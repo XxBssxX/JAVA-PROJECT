@@ -26,5 +26,5 @@ public class EXERCICE4 {
             System.out.println(x + "^" + n + " = " + resultat);
 
         }
-    }// TODO code application logic here
+    }
   

@@ -35,5 +35,5 @@ public class EXERCICE7 {
           return false;
         }
     }
-}// TODO code application logic here
+}
     

@@ -27,5 +27,5 @@ public class EXERCICE6 {
         System.out.println("le systeme admet une seule solution x1 "+x1);
         }
      }
-}// TODO code application logic here
+}
     

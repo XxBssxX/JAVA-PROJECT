@@ -24,5 +24,5 @@ public class EXERCICE2 {
 	    System.out.println("Dans une minute, il sera " + nouvelleHeure + " heure(s) " + nouvellesMinutes + ".");
 	}
 
-}// TODO code application logic here
+}
     

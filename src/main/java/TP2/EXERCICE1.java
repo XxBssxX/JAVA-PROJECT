@@ -89,6 +89,4 @@ Scanner scanner = new Scanner(System.in);
         System.out.println("Moyenne : " + MN);
 
         scanner.close();
- */// TODO code application logic here
-    
-}
+ }

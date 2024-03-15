@@ -37,5 +37,5 @@ public class EXERCICE1 {
 	        System.out.println("\nLe nombre de diviseurs est : " + NbDiviseurs);
 	        System.out.println("La somme des diviseurs est : " + sumDiviseurs);
 	    }
-}// TODO code application logic here// TODO code application logic here
+}
     

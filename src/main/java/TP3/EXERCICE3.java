@@ -31,5 +31,5 @@ public class EXERCICE3 {
 	            System.out.println("Index " + i + " : " + tableau[i]);
 	        }
 	    }
-}// TODO code application logic here
+}
     

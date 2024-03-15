@@ -33,5 +33,5 @@ public class EXERCICE3 {
 	        }
 	        return sumDiviseurs == nombre;
 	    }
-	}// TODO code application logic here
+	}
     

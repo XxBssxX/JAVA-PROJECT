@@ -38,5 +38,5 @@ public class EXERCICE4 {
 	        }
 	        return sum;
 	    }
-	}// TODO code application logic here
+	}
     

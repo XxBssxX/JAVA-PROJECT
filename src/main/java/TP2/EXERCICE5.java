@@ -30,5 +30,5 @@ public class EXERCICE5 {
         }
         System.out.println("Factoriel avec for : " + factFor);
 	}
-}// TODO code application logic here
+}
     

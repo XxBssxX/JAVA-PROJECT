@@ -68,5 +68,5 @@ public class exercice1_2 {
 
 		    }
 
-} // TODO code application logic here
+} 
     
