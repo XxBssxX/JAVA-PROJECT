@@ -23,5 +23,4 @@ public class EXERCICE4 {
 
 	    }
 	    }// TODO code application logic here
-    }
-}
+    

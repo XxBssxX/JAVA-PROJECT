@@ -37,5 +37,4 @@ public class EXERCICE7 {
 	}
 
 }// TODO code application logic here
-    }
-}
+    

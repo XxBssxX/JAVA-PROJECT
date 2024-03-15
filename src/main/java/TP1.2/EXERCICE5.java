@@ -56,5 +56,4 @@ public class EXERCICE5 {
         return joueursSansBut;
     }
 }// TODO code application logic here
-    }
-}
+    
