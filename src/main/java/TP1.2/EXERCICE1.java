@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
 package TP1;
-import java.util.scanner;
+import java.util.Scanner;
 /**
  *
  * @author BASSAM
